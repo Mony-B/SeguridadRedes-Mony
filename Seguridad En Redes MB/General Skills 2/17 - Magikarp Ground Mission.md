@@ -1,0 +1,44 @@
+# DESCRIPCIÓN:
+Do you know how to move between directories and read files in the shell? Start the container, `ssh` to it, and then `ls` once connected to begin.
+
+Login via `ssh` as `ctf-player` with the password, `8c606eb1` on the host `wily-courier.picoctf.net` and port `50869`.
+
+Finding a cheatsheet for bash would be really helpful!
+
+# SOLUCIÓN:
+#### picoCTF{xxsh_0ut_0f_//4t3r_0b24fc4f}
+
+```
+mony@Mony:/mnt/c/Users/Usuario$ ssh ctf-player@wily-courier.picoctf.net -p 50869
+
+ctf-player@pico-chall$ ls
+1of3.flag.txt  instructions-to-2of3.txt
+ctf-player@pico-chall$ cat 1of3.flag.txt
+picoCTF{xxsh_
+
+ctf-player@pico-chall$ cat instructions-to-2of3.txt
+Next, go to the root of all things, more succinctly `/`
+ctf-player@pico-chall$ cd /
+ctf-player@pico-chall$ ls
+2of3.flag.txt  boot       dev  home                      lib    media  opt   root  sbin  sys  usr
+bin            challenge  etc  instructions-to-3of3.txt  lib64  mnt    proc  run   srv   tmp  var
+ctf-player@pico-chall$ cat 2of3.flag.txt
+0ut_0f_//4t3r_
+
+
+ctf-player@pico-chall$ cd
+ctf-player@pico-chall$ ls
+3of3.flag.txt  drop-in
+ctf-player@pico-chall$ cat 3of3.flag.txt
+0b24fc4f}ctf-player@pico-chall$ Connection to wily-courier.picoctf.net closed by remote host.
+Connection to wily-courier.picoctf.net closed.
+mony@Mony:/mnt/c/Users/Usuario$
+
+```
+
+# NOTAS ADICIONALES:
+- cd / nos devuelve al inicio de la carpeta
+- cd + enter nos saca tambn de una carpeta
+- echo $HOME me dice cual es la carpeta del usuario
+# REFERENCIAS:
+https://webshell.cylabacademy.org/
