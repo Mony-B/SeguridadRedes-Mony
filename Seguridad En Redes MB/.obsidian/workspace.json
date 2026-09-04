@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2761d7a4b6bfbccc",
+        "id": "a57ef7b09ce14b0e",
         "type": "tabs",
         "children": [
           {
-            "id": "b3e605e60e99a592",
+            "id": "4b089ae546ffe14e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Skills 3/22 - runme.py.md",
+                "file": "Tarea 1 - General Skills/31 - permissions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22 - runme.py"
-            }
-          },
-          {
-            "id": "58545bc237fa9337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Skills 3/22 - runme.py.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "22 - runme.py"
-            }
-          },
-          {
-            "id": "57aa430ce5aca9ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Skills 3/30 - Serpentine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "30 - Serpentine"
-            }
-          },
-          {
-            "id": "5fa90e109f8aeafe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Skills 3/29 - PW Crack 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "29 - PW Crack 3"
-            }
-          },
-          {
-            "id": "d3c18ea4881017ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Skills 3/30 - Serpentine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "30 - Serpentine"
+              "title": "31 - permissions"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,36 +188,38 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "57aa430ce5aca9ac",
+  "active": "4b089ae546ffe14e",
   "lastOpenFiles": [
-    "General Skills 3/29 - PW Crack 3.md",
-    "General Skills 3/30 - Serpentine.md",
-    "General Skills 3/25 - fixme1.py.md",
-    "General Skills 3/24 - convertme.py.md",
-    "General Skills 3/23 - Codebook.md",
-    "General Skills 3/22 - runme.py.md",
-    "General Skills 3/21 - Super SSH.md",
+    "Tarea 1 - General Skills/32 - chrono.md",
+    "Tarea 1 - General Skills/33 - special.md",
+    "Tarea 1 - General Skills/34 - committee issue.md",
+    "Tarea 1 - General Skills/35 - time machine.md",
+    "Tarea 1 - General Skills/36 - blame game.md",
+    "Tarea 1 - General Skills/37 - collaborative development.md",
+    "Tarea 1 - General Skills/38 - binary search.md",
+    "Tarea 1 - General Skills/39 - binhexa.md",
+    "Tarea 1 - General Skills/40 - ASCII Numbers.md",
+    "Tarea 1 - General Skills/31 - permissions.md",
+    "Actividad 09 - picoCTF Web 1/42 - where are the robots.md",
+    "Actividad 09 - picoCTF Web 1/43 - logon.md",
+    "Actividad 09 - picoCTF Web 1/41 - Insp3ct0r.md",
+    "Actividad 09 - picoCTF Web 1/44 - dont-use-client-side.md",
+    "Actividad 09 - picoCTF Web 1/45 - picobrowser.md",
+    "Actividad 09 - picoCTF Web 1/46 - Client-side-again.md",
+    "Sin título.md",
     "PLANTILLA.md",
-    "General Skills 3/28 - PW Crack 2.md",
-    "General Skills 3/27 - PW Crack 1.md",
-    "General Skills 3/26 - fixme2.py.md",
-    "General Skills 2/20 - First Find.md",
-    "General Skills 3",
-    "General Skills 2/19 - Big zip.md",
-    "General Skills 2/18 - repetitions.md",
-    "General Skills 2/17 - Magikarp Ground Mission.md",
-    "General Skills 2/16 - Tab, Tab, Attack.md",
+    "Actividad 09 - picoCTF Web 1",
     "General Skills 2/15 - useless.md",
     "General Skills 2/14 - Static ain´t always noise.md",
     "General Skills 2/13 - Wave a flag.md",
-    "General Skills 2/12 - strings it.md",
-    "General Skills 2/11 - Based.md",
-    "General Skills 1/10 - Nice netcat.md",
-    "General Skills 1/05 - First Grep.md",
+    "General Skills 3/30 - Serpentine.md",
+    "Tarea 1 - General Skills",
+    "General Skills 3/29 - PW Crack 3.md",
+    "General Skills 3/25 - fixme1.py.md",
+    "General Skills 3/24 - convertme.py.md",
+    "General Skills 3/23 - Codebook.md",
+    "General Skills 3",
     "General Skills 2",
-    "General Skills 1/03 - Warmed Up.md",
-    "General Skills 1/02 - 2warm.md",
-    "General Skills 1/04 - Bases.md",
     "General Skills 1",
     "Sin título.base"
   ]
