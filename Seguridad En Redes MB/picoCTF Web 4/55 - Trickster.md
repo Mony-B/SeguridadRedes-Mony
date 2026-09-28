@@ -1,5 +1,5 @@
 # DESCRIPCIÓN:
-
+I found a web app that can help process images: PNG images only!
 # SOLUCIÓN:
 #### academy{c3rt!fi3d_Xp3rt_tr1ckst3r_b0eea9c8}
 
