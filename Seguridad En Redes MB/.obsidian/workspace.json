@@ -4,20 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "a9c2ae072472dc67",
+        "id": "869f8ba9332a4b22",
         "type": "tabs",
         "children": [
           {
-            "id": "53ee082f8f068603",
+            "id": "796a958e81ec09a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF Web 4/53 - MatchTheRegex.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "53 - MatchTheRegex"
+            }
+          },
+          {
+            "id": "1f520badf492495f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF Web 4/54 - SOAP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "54 - SOAP"
+            }
+          },
+          {
+            "id": "d73bc2c78bd839d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF Web 4/55 - Trickster.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "55 - Trickster"
+            }
+          },
+          {
+            "id": "364672effd06e202",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF Web 4/56 - Most Cookies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "56 - Most Cookies"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,18 +231,24 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "53ee082f8f068603",
+  "active": "364672effd06e202",
   "lastOpenFiles": [
-    "picoCTF Web 3/52 - JaWT Scratchpad.md",
-    "picoCTF Web 3/51 - More SQLi.md",
-    "picoCTF Web 3/50 - Irish-Name-Repo 1.md",
+    "picoCTF Web 4/55 - Trickster.md",
+    "picoCTF Web 4/54 - SOAP.md",
+    "picoCTF Web 4/56 - Most Cookies.md",
+    "picoCTF Web 4/53 - MatchTheRegex.md",
     "Pasted image 20260915011302.png",
-    "Pasted image 20260915011150.png",
-    "Pasted image 20260915011137.png",
+    "picoCTF Web 3/52 - JaWT Scratchpad.md",
+    "picoCTF Web 3/Pasted image 20260915002958.png",
     "Pasted image 20260915011106.png",
     "Pasted image 20260915011100.png",
-    "Pasted image 20260915002958.png",
+    "Pasted image 20260915011150.png",
+    "Pasted image 20260915011137.png",
+    "picoCTF Web 3/51 - More SQLi.md",
+    "picoCTF Web 3/50 - Irish-Name-Repo 1.md",
     "Plantilla - Doc..md",
+    "picoCTF Web 4",
+    "JAJA.md",
     "picoCTF Web 3",
     "README.md",
     "Bienvenido.md",
@@ -214,11 +267,6 @@
     "Tarea 1 - General Skills/39 - binhexa.md",
     "Tarea 1 - General Skills/40 - ASCII Numbers.md",
     "picoCTF Web 1/42 - where are the robots.md",
-    "picoCTF Web 1/43 - logon.md",
-    "picoCTF Web 1/41 - Insp3ct0r.md",
-    "picoCTF Web 1/44 - dont-use-client-side.md",
-    "picoCTF Web 1/45 - picobrowser.md",
-    "picoCTF Web 1/46 - Client-side-again.md",
     "picoCTF Web 1",
     "Tarea 1 - General Skills",
     "General Skills 3",
