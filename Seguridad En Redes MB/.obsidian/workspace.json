@@ -11,17 +11,84 @@
             "id": "e9ba716704671e9b",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "bea33c34a8dc335a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Tarea 2 - Web/66 - WebDecode.md",
+                "file": "Actividad 13 - picoCTF - Forensic 1/71 - What Lies Whitin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "66 - WebDecode"
+              "title": "71 - What Lies Whitin"
+            }
+          },
+          {
+            "id": "19c12db7bb8909f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividad 13 - picoCTF - Forensic 1/68 - So Meta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "68 - So Meta"
+            }
+          },
+          {
+            "id": "4b136a1b794c3634",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividad 13 - picoCTF - Forensic 1/69 - shark on wire 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "69 - shark on wire 1"
+            }
+          },
+          {
+            "id": "532611228470e356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividad 13 - picoCTF - Forensic 1/70 - extensions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "70 - extensions"
+            }
+          },
+          {
+            "id": "4ada31e5b34158c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividad 13 - picoCTF - Forensic 1/67 - Glory of the Garden.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "67 - Glory of the Garden"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,11 +255,18 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "151205500c700fdd",
+  "active": "bea33c34a8dc335a",
   "lastOpenFiles": [
-    "Sin nombre",
-    "Tarea 2 - Web/64 - SQLiLite.md",
+    "Actividad 13 - picoCTF - Forensic 1/70 - extensions.md",
+    "Actividad 13 - picoCTF - Forensic 1/69 - shark on wire 1.md",
+    "Actividad 13 - picoCTF - Forensic 1/68 - So Meta.md",
+    "Actividad 13 - picoCTF - Forensic 1/67 - Glory of the Garden.md",
     "Tarea 2 - Web/66 - WebDecode.md",
+    "Actividad 13 - picoCTF - Forensic 1/71 - What Lies Whitin.md",
+    "Plantilla - Doc..md",
+    "Sin título.md",
+    "Actividad 13 - picoCTF - Forensic 1",
+    "Tarea 2 - Web/64 - SQLiLite.md",
     "Tarea 2 - Web/65 - Unminify.md",
     "Tarea 2 - Web/63 - Secrets.md",
     "Tarea 2 - Web/62 - Roboto Sans.md",
@@ -204,7 +278,6 @@
     "picoCTF Web 4/55 - Trickster.md",
     "picoCTF Web 4/54 - SOAP.md",
     "picoCTF Web 4/53 - MatchTheRegex.md",
-    "Plantilla - Doc..md",
     "Pasted image 20260915011106.png",
     "Pasted image 20260915011137.png",
     "Pasted image 20260915011302.png",
@@ -220,12 +293,7 @@
     "JAJA.md",
     "picoCTF Web 3",
     "README.md",
-    "Bienvenido.md",
-    "picoCTF Web 2/49 - Scavenger Hunt.md",
-    "picoCTF Web 2/48 - Cookies.md",
-    "picoCTF Web 2/47 - GET aHEAD.md",
     "picoCTF Web 2",
-    "Tarea 1 - General Skills/31 - permissions.md",
     "picoCTF Web 1",
     "Tarea 1 - General Skills",
     "General Skills 3",
