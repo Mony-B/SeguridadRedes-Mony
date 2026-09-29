@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "796a958e81ec09a6",
+            "id": "e9ba716704671e9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF Web 4/53 - MatchTheRegex.md",
+                "file": "Tarea 2 - Web/66 - WebDecode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "53 - MatchTheRegex"
-            }
-          },
-          {
-            "id": "1f520badf492495f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF Web 4/54 - SOAP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "54 - SOAP"
-            }
-          },
-          {
-            "id": "d73bc2c78bd839d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF Web 4/55 - Trickster.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "55 - Trickster"
-            }
-          },
-          {
-            "id": "364672effd06e202",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF Web 4/53 - MatchTheRegex.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "53 - MatchTheRegex"
+              "title": "66 - WebDecode"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,22 +188,34 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "364672effd06e202",
+  "active": "151205500c700fdd",
   "lastOpenFiles": [
-    "picoCTF Web 4/56 - Most Cookies.md",
+    "Sin nombre",
+    "Tarea 2 - Web/64 - SQLiLite.md",
+    "Tarea 2 - Web/66 - WebDecode.md",
+    "Tarea 2 - Web/65 - Unminify.md",
+    "Tarea 2 - Web/63 - Secrets.md",
+    "Tarea 2 - Web/62 - Roboto Sans.md",
+    "Tarea 2 - Web/61 - Power Cookie.md",
+    "Tarea 2 - Web/60 - Local Authority.md",
+    "Tarea 2 - Web/59 -  IntroToBurp.md",
+    "Tarea 2 - Web/58 - Inspect HTML.md",
+    "Tarea 2 - Web/57 - Includes.md",
     "picoCTF Web 4/55 - Trickster.md",
-    "picoCTF Web 4/53 - MatchTheRegex.md",
     "picoCTF Web 4/54 - SOAP.md",
+    "picoCTF Web 4/53 - MatchTheRegex.md",
+    "Plantilla - Doc..md",
+    "Pasted image 20260915011106.png",
+    "Pasted image 20260915011137.png",
     "Pasted image 20260915011302.png",
+    "Tarea 2 - Web",
+    "picoCTF Web 4/56 - Most Cookies.md",
     "picoCTF Web 3/52 - JaWT Scratchpad.md",
     "picoCTF Web 3/Pasted image 20260915002958.png",
-    "Pasted image 20260915011106.png",
     "Pasted image 20260915011100.png",
     "Pasted image 20260915011150.png",
-    "Pasted image 20260915011137.png",
     "picoCTF Web 3/51 - More SQLi.md",
     "picoCTF Web 3/50 - Irish-Name-Repo 1.md",
-    "Plantilla - Doc..md",
     "picoCTF Web 4",
     "JAJA.md",
     "picoCTF Web 3",
@@ -257,21 +226,10 @@
     "picoCTF Web 2/47 - GET aHEAD.md",
     "picoCTF Web 2",
     "Tarea 1 - General Skills/31 - permissions.md",
-    "Tarea 1 - General Skills/32 - chrono.md",
-    "Tarea 1 - General Skills/33 - special.md",
-    "Tarea 1 - General Skills/34 - committee issue.md",
-    "Tarea 1 - General Skills/35 - time machine.md",
-    "Tarea 1 - General Skills/36 - blame game.md",
-    "Tarea 1 - General Skills/37 - collaborative development.md",
-    "Tarea 1 - General Skills/38 - binary search.md",
-    "Tarea 1 - General Skills/39 - binhexa.md",
-    "Tarea 1 - General Skills/40 - ASCII Numbers.md",
-    "picoCTF Web 1/42 - where are the robots.md",
     "picoCTF Web 1",
     "Tarea 1 - General Skills",
     "General Skills 3",
     "General Skills 2",
-    "General Skills 1",
-    "Sin título.base"
+    "General Skills 1"
   ]
 }
