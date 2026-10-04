@@ -11,154 +11,17 @@
             "id": "e9ba716704671e9b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          },
-          {
-            "id": "bea33c34a8dc335a",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Actividad 13 - picoCTF - Forensic 1/71 - What Lies Whitin.md",
+                "file": "1er Parcial - Pt. 1 - General Skills/86 - SansAlpha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "71 - What Lies Whitin"
-            }
-          },
-          {
-            "id": "f2cf33b53c3a9028",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actividad 14 - pico CTF - Forensic 2/72 - m00nwalk.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "72 - m00nwalk"
-            }
-          },
-          {
-            "id": "c85e0da3a431c84b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actividad 14 - pico CTF - Forensic 2/73 - WhitePages.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "73 - WhitePages"
-            }
-          },
-          {
-            "id": "b898277b95fa1ca8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actividad 14 - pico CTF - Forensic 2/74 - c0rrupt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "74 - c0rrupt"
-            }
-          },
-          {
-            "id": "55d32cf7df17a6ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actividad 14 - pico CTF - Forensic 2/75 - like1000.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "75 - like1000"
-            }
-          },
-          {
-            "id": "2c5abc874614641c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actividad 14 - pico CTF - Forensic 2/76 - shark on wire 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "76 - shark on wire 2"
-            }
-          },
-          {
-            "id": "19c12db7bb8909f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actividad 13 - picoCTF - Forensic 1/68 - So Meta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "68 - So Meta"
-            }
-          },
-          {
-            "id": "4b136a1b794c3634",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actividad 13 - picoCTF - Forensic 1/69 - shark on wire 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "69 - shark on wire 1"
-            }
-          },
-          {
-            "id": "532611228470e356",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actividad 13 - picoCTF - Forensic 1/70 - extensions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "70 - extensions"
-            }
-          },
-          {
-            "id": "4ada31e5b34158c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actividad 13 - picoCTF - Forensic 1/67 - Glory of the Garden.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "67 - Glory of the Garden"
+              "title": "86 - SansAlpha"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -325,49 +188,53 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "2c5abc874614641c",
+  "active": "e9ba716704671e9b",
   "lastOpenFiles": [
-    "Actividad 14 - pico CTF - Forensic 2/75 - like1000.md",
-    "Actividad 14 - pico CTF - Forensic 2/74 - c0rrupt.md",
-    "Actividad 14 - pico CTF - Forensic 2/73 - WhitePages.md",
-    "Actividad 14 - pico CTF - Forensic 2/72 - m00nwalk.md",
-    "Actividad 14 - pico CTF - Forensic 2/76 - shark on wire 2.md",
-    "Plantilla - Doc..md",
-    "Actividad 13 - picoCTF - Forensic 1/71 - What Lies Whitin.md",
-    "Actividad 14 - pico CTF - Forensic 2",
+    "1er Parcial - Pt. 1 - General Skills/85 - Rust fixme 3.md",
+    "1er Parcial - Pt. 1 - General Skills/84 - Rust fixme 2.md",
+    "1er Parcial - Pt. 1 - General Skills/83 - Rust fixme 1.md",
+    "1er Parcial - Pt. 1 - General Skills/82 - Pyhton Wrangling.md",
+    "1er Parcial - Pt. 1 - General Skills/81 - HashingJobApp.md",
+    "1er Parcial - Pt. 1 - General Skills/77 - dont-you-love-banners.md",
+    "1er Parcial - Pt. 1 - General Skills/78 - Wave a flag.md",
+    "1er Parcial - Pt. 1 - General Skills/79 - flag_shop.md",
+    "1er Parcial - Pt. 1 - General Skills/80 - FANTASY CTF.md",
+    "1er Parcial - Pt. 1 - General Skills/86 - SansAlpha.md",
+    "1er Parcial - Pt. 2 - Web/95 - SSTI2.md",
+    "1er Parcial - Pt. 2 - Web/94 - SSTI1.md",
+    "1er Parcial - Pt. 2 - Web/96 - WebSockFlash.md",
+    "1er Parcial - Pt. 2 - Web/93 - SQL Direct.md",
+    "1er Parcial - Pt. 2 - Web/92 - n0s4n1ty 1.md",
+    "1er Parcial - Pt. 2 - Web/91 - Java Code Analysis!.md",
+    "1er Parcial - Pt. 2 - Web/90 - head - dump.md",
+    "1er Parcial - Pt. 2 - Web/89 - findme.md",
+    "1er Parcial - Pt. 2 - Web/88 - Cookie Monster Secret Recipe.md",
+    "1er Parcial - Pt. 2 - Web/87 - Bookmarket.md",
+    "Pasted image 20261004023201.png",
+    "Pasted image 20261004023143.png",
+    "Pasted image 20261004005121.png",
+    "Pasted image 20261004003555.png",
+    "Pasted image 20261004000201.png",
+    "Pasted image 20261003235709.png",
+    "Pasted image 20261003234158.png",
+    "Pasted image 20261003233647.png",
+    "General Skills 2/13 - Wave a flag.md",
+    "Actividad 13 - picoCTF - Forensic 1/67 - Glory of the Garden.md",
     "Actividad 13 - picoCTF - Forensic 1/70 - extensions.md",
     "Actividad 13 - picoCTF - Forensic 1/69 - shark on wire 1.md",
     "Actividad 13 - picoCTF - Forensic 1/68 - So Meta.md",
-    "Actividad 13 - picoCTF - Forensic 1/67 - Glory of the Garden.md",
-    "Tarea 2 - Web/66 - WebDecode.md",
-    "Sin título.md",
+    "Actividad 14 - pico CTF - Forensic 2/75 - like1000.md",
+    "1er Parcial - Pt. 2 - Web",
+    "1er Parcial - Pt. 1 - General Skills",
+    "Actividad 14 - pico CTF - Forensic 2",
     "Actividad 13 - picoCTF - Forensic 1",
-    "Tarea 2 - Web/64 - SQLiLite.md",
-    "Tarea 2 - Web/65 - Unminify.md",
-    "Tarea 2 - Web/63 - Secrets.md",
-    "Tarea 2 - Web/62 - Roboto Sans.md",
-    "Tarea 2 - Web/61 - Power Cookie.md",
-    "Tarea 2 - Web/60 - Local Authority.md",
-    "Tarea 2 - Web/59 -  IntroToBurp.md",
-    "Tarea 2 - Web/58 - Inspect HTML.md",
-    "Tarea 2 - Web/57 - Includes.md",
-    "picoCTF Web 4/55 - Trickster.md",
-    "picoCTF Web 4/54 - SOAP.md",
-    "picoCTF Web 4/53 - MatchTheRegex.md",
     "Pasted image 20260915011106.png",
     "Pasted image 20260915011137.png",
-    "Pasted image 20260915011302.png",
     "Tarea 2 - Web",
-    "picoCTF Web 4/56 - Most Cookies.md",
-    "picoCTF Web 3/Pasted image 20260915002958.png",
-    "Pasted image 20260915011100.png",
-    "Pasted image 20260915011150.png",
     "picoCTF Web 4",
     "picoCTF Web 3",
     "picoCTF Web 2",
     "picoCTF Web 1",
-    "Tarea 1 - General Skills",
-    "General Skills 3",
-    "General Skills 2"
+    "Tarea 1 - General Skills"
   ]
 }
