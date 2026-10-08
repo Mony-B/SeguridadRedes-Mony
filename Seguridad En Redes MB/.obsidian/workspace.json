@@ -90,9 +90,93 @@
               "icon": "lucide-file",
               "title": "97 - WebNet0"
             }
+          },
+          {
+            "id": "bf79848e5bdb2db9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividad 16 - picoCTF Forensic 4/102 - Milkslap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "102 - Milkslap"
+            }
+          },
+          {
+            "id": "4d5d724be17920a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividad 16 - picoCTF Forensic 4/103 - Disk, disk, sleuth!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "103 - Disk, disk, sleuth!"
+            }
+          },
+          {
+            "id": "d136107f0caac7cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividad 16 - picoCTF Forensic 4/104 - Sleuthkit Intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "104 - Sleuthkit Intro"
+            }
+          },
+          {
+            "id": "dd45ef50a7e86445",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividad 16 - picoCTF Forensic 4/106 - Operation Orchid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "106 - Operation Orchid"
+            }
+          },
+          {
+            "id": "e3ae6176ece74a65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividad 16 - picoCTF Forensic 4/106 - Operation Orchid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "106 - Operation Orchid"
+            }
+          },
+          {
+            "id": "c0d5640f3c80068f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividad 16 - picoCTF Forensic 4/106 - Operation Orchid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "106 - Operation Orchid"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -259,15 +343,23 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "a8d1490e0d3d65ae",
+  "active": "c0d5640f3c80068f",
   "lastOpenFiles": [
+    "Actividad 16 - picoCTF Forensic 4/105 - Sleuthkit Apprentice.md",
+    "Actividad 16 - picoCTF Forensic 4/104 - Sleuthkit Intro.md",
+    "Actividad 16 - picoCTF Forensic 4/107 - Operation Oni.md",
+    "Actividad 16 - picoCTF Forensic 4/106 - Operation Orchid.md",
+    "Pasted image 20261003233647.png",
+    "Plantilla - Doc..md",
+    "Actividad 16 - picoCTF Forensic 4/103 - Disk, disk, sleuth!.md",
+    "Actividad 16 - picoCTF Forensic 4/102 - Milkslap.md",
+    "Actividad 15 - picoCTF Forensic 3/97 - WebNet0.md",
+    "Actividad 16 - picoCTF Forensic 4",
     "Actividad 15 - picoCTF Forensic 3/98 - WebNet1.md",
     "Actividad 15 - picoCTF Forensic 3/100 - tunn3l v1si0n.md",
     "Actividad 15 - picoCTF Forensic 3/101 - MacroHard WeakEdge.md",
     "Actividad 15 - picoCTF Forensic 3/99 - Matryoshka doll.md",
-    "Actividad 15 - picoCTF Forensic 3/97 - WebNet0.md",
     "Pasted image 20261005105145.png",
-    "Plantilla - Doc..md",
     "Pasted image 20261005104000.png",
     "1er Parcial - Pt. 1 - General Skills/86 - SansAlpha.md",
     "Actividad 15 - picoCTF Forensic 3",
@@ -283,13 +375,6 @@
     "1er Parcial - Pt. 2 - Web/95 - SSTI2.md",
     "1er Parcial - Pt. 2 - Web/94 - SSTI1.md",
     "1er Parcial - Pt. 2 - Web/96 - WebSockFlash.md",
-    "1er Parcial - Pt. 2 - Web/93 - SQL Direct.md",
-    "1er Parcial - Pt. 2 - Web/92 - n0s4n1ty 1.md",
-    "1er Parcial - Pt. 2 - Web/91 - Java Code Analysis!.md",
-    "1er Parcial - Pt. 2 - Web/90 - head - dump.md",
-    "1er Parcial - Pt. 2 - Web/89 - findme.md",
-    "1er Parcial - Pt. 2 - Web/88 - Cookie Monster Secret Recipe.md",
-    "1er Parcial - Pt. 2 - Web/87 - Bookmarket.md",
     "Pasted image 20261004023201.png",
     "Pasted image 20261004023143.png",
     "Pasted image 20261004005121.png",
@@ -297,7 +382,6 @@
     "Pasted image 20261004000201.png",
     "Pasted image 20261003235709.png",
     "Pasted image 20261003234158.png",
-    "Pasted image 20261003233647.png",
     "1er Parcial - Pt. 2 - Web",
     "1er Parcial - Pt. 1 - General Skills",
     "Actividad 14 - pico CTF - Forensic 2",
@@ -305,7 +389,6 @@
     "Tarea 2 - Web",
     "picoCTF Web 4",
     "picoCTF Web 3",
-    "picoCTF Web 2",
-    "picoCTF Web 1"
+    "picoCTF Web 2"
   ]
 }
