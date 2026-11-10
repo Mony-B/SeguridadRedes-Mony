@@ -293,12 +293,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reversing 2/175 - Picker lV.md",
+                "file": "Actividad 23 - picoCTF Reversing 3/176 - asm1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "175 - Picker lV"
+              "title": "176 - asm1"
             }
           }
         ],
@@ -471,14 +471,18 @@
   },
   "active": "4c0be20ff40a4ade",
   "lastOpenFiles": [
-    "Reversing 2/174 - Picker lll.md",
-    "Reversing 2/173 - Picker ll.md",
-    "Reversing 2/172 - Picker l.md",
-    "Reversing 2/171 - timer.md",
-    "Reversing 2/170 - Safe Opener 2.md",
-    "Reversing 2/175 - Picker lV.md",
+    "Actividad 23 - picoCTF Reversing 3/178 - asm2.md",
+    "Actividad 23 - picoCTF Reversing 3/177 - asm3.md",
+    "Actividad 22 - Reversing 2/175 - Picker lV.md",
+    "Actividad 23 - picoCTF Reversing 3/176 - asm1.md",
+    "Actividad 23 - picoCTF Reversing 3",
+    "Actividad 22 - Reversing 2/174 - Picker lll.md",
+    "Actividad 22 - Reversing 2/173 - Picker ll.md",
+    "Actividad 22 - Reversing 2/172 - Picker l.md",
+    "Actividad 22 - Reversing 2/171 - timer.md",
+    "Actividad 22 - Reversing 2/170 - Safe Opener 2.md",
     "Plantilla - Doc..md",
-    "Reversing 2",
+    "Actividad 22 - Reversing 2",
     "2do Parcial - Pt. 2 - Forensic/169 - DISKO 4.md",
     "Actividad 21 - picoCTF Reverse Engineering/149 - vault-door-5.md",
     "2do Parcial - Pt. 2 - Forensic/168 - Timeline 1.md",
@@ -498,9 +502,6 @@
     "2do Parcial - Pt. 1 - Crypto/sedtFZ9mE",
     "2do Parcial - Pt. 1 - Crypto/sedOpCArc",
     "2do Parcial - Pt. 1 - Crypto/155 - Custom encryption.md",
-    "2do Parcial - Pt. 1 - Crypto/154 - transposition-trial.md",
-    "2do Parcial - Pt. 1 - Crypto/153 - Shared Secrets.md",
-    "2do Parcial - Pt. 1 - Crypto/152 - StegoRSA.md",
     "Tarea 5 - Crypto",
     "Actividad 20 - picoCTF Crypto 4",
     "Actividad 19 - picoCTF Crypto 3",
@@ -508,7 +509,6 @@
     "Actividad 18 - picoCTF Crypto 2 (parte2)",
     "Pasted image 20261005105145.png",
     "Pasted image 20261003233647.png",
-    "Actividad 17 - picoCTF Crypto - Parte 1/Sin nombre",
     "Pasted image 20261005104000.png",
     "Pasted image 20261004023201.png",
     "Pasted image 20261004023143.png",
