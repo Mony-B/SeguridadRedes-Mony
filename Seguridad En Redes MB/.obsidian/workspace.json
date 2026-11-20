@@ -293,12 +293,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actividad 23 - picoCTF Reversing 3/176 - asm1.md",
+                "file": "Actividad 24 - picoCTF Reversing - Parte 4/181 - Need For Speed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "176 - asm1"
+              "title": "181 - Need For Speed"
             }
           }
         ],
@@ -471,10 +471,12 @@
   },
   "active": "4c0be20ff40a4ade",
   "lastOpenFiles": [
+    "Actividad 24 - picoCTF Reversing - Parte 4/180 - reverse_cipher.md",
+    "Actividad 24 - picoCTF Reversing - Parte 4/179 - GDB Test Drive.md",
+    "Actividad 23 - picoCTF Reversing 3/176 - asm1.md",
     "Actividad 23 - picoCTF Reversing 3/178 - asm2.md",
     "Actividad 23 - picoCTF Reversing 3/177 - asm3.md",
     "Actividad 22 - Reversing 2/175 - Picker lV.md",
-    "Actividad 23 - picoCTF Reversing 3/176 - asm1.md",
     "Actividad 23 - picoCTF Reversing 3",
     "Actividad 22 - Reversing 2/174 - Picker lll.md",
     "Actividad 22 - Reversing 2/173 - Picker ll.md",
@@ -498,10 +500,8 @@
     "2do Parcial - Pt. 1 - Crypto/159 - rsa_oracle.md",
     "2do Parcial - Pt. 1 - Crypto/158 - Related Messages.md",
     "2do Parcial - Pt. 1 - Crypto/157 - Small Trouble.md",
-    "2do Parcial - Pt. 1 - Crypto/156 - Timestamped Secrets.md",
     "2do Parcial - Pt. 1 - Crypto/sedtFZ9mE",
     "2do Parcial - Pt. 1 - Crypto/sedOpCArc",
-    "2do Parcial - Pt. 1 - Crypto/155 - Custom encryption.md",
     "Tarea 5 - Crypto",
     "Actividad 20 - picoCTF Crypto 4",
     "Actividad 19 - picoCTF Crypto 3",
